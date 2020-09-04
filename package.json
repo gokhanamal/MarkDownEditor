@@ -5,6 +5,6 @@
   "license": "MIT",
   "dependencies": {
     "normalize.css": "^8.0.1",
-    "showdown": "^1.9.0"
+    "showdown": "^1.9.1"
   }
 }
